@@ -1,4 +1,4 @@
-This is a template for user/admin login and signup. It was produced using php and mysql.
+This is a template for user/admin login and signup. It was produced using PHP and MySQL.
 
 Administrator credentials: 
 	username: admin
